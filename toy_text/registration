@@ -1,6 +1,0 @@
-#Add this registration entry to the existing envs/__init__.py
-
-register(
-    id='RLBookGridWorld-v0',
-    entry_point='gym.envs.toy_text:GridWorldEnv',
-)
