@@ -1,4 +1,6 @@
-#Environment for GridWorld (Example 3.8 from Sutton & Barto: Reinforcement Learning)
+#======================================================================================================
+'''
+Environment for GridWorld (Example 3.8 from Sutton & Barto: Reinforcement Learning)
 #using Gym AI.
 #Copyright (C) October, 2018  Paribartan Dhakal
 
@@ -12,7 +14,8 @@
 #but WITHOUT ANY WARRANTY; without even the implied warranty of
 #MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 #GNU Affero General Public License for more details.
-
+'''
+#========================================================================================================
 
 import numpy as np
 import sys
