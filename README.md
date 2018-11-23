@@ -2,6 +2,6 @@
 Additional envs for openai gym
 
 Includes:
-  The simple gridworld from Sutton & Barto's RL book ![gw](RAILUSM.github.com/gym-envs/figs/gw.PNG)
+  The simple gridworld from Sutton & Barto's RL book ![gw](RAILUSM.github.com/gym-envs/figs/gw.jpg)
   
-  A 2-agent block dudes environment ![bd](RAILUSM.github.com/gym-envs/figs/BlockDudes.pdf)
+  A 2-agent block dudes environment ![bd](RAILUSM.github.com/gym-envs/figs/BlockDudes.jpg)
